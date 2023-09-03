@@ -31,9 +31,9 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://8000-tamassomi-django-blog-si-aiifildr1s.us2.codeanyapp.com',
     '8000-tamassomi-django-blog-si-aiifildr1s.us2.codeanyapp.com',
     'TamasSomi.herokuapp.com',
+    '127.0.0.1',
     'localhost',
     'django-blog-site-ts-2982e7d63c26.herokuapp.com'
 ]
