@@ -40,6 +40,11 @@ ALLOWED_HOSTS = [
 ]
 
 
+# Add CSRF_TRUSTED_ORIGINS to specify trusted origins for CSRF protection
+CSRF_TRUSTED_ORIGINS = [
+    'https://8000-tamassomi-django-blog-si-aiifildr1s.us2.codeanyapp.com']
+
+
 # Application definition
 
 INSTALLED_APPS = [
