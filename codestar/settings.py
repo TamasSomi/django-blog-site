@@ -35,7 +35,8 @@ ALLOWED_HOSTS = [
     'TamasSomi.herokuapp.com',
     '127.0.0.1',
     'localhost',
-    'django-blog-site-ts-2982e7d63c26.herokuapp.com'
+    'django-blog-site-ts-2982e7d63c26.herokuapp.com',
+    ' * '
 ]
 
 
