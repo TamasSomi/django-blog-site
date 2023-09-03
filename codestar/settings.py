@@ -32,8 +32,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-tamassomi-django-blog-si-aiifildr1s.us2.codeanyapp.com',
-    'TamasSomi.herokuapp.com', 'localhost'
-    ]
+    'TamasSomi.herokuapp.com',
+    'localhost',
+    'django-blog-site-ts-2982e7d63c26.herokuapp.com'
+]
 
 
 # Application definition
